@@ -3,9 +3,11 @@ anti-collision system. The circles appearing at the edge
 of the window are colored in red, those located on an axis 0 
 in blue, the others without color."""
 
-import turtle as tu
 import random
 import time, datetime
+import turtle as tu
+
+__author__ = "Kartmaan"
 
 circles = 1600 # Number of circles generated
 # For the following parameters : screen(1024,720) and r = 5
