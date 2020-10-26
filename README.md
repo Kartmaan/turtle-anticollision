@@ -10,3 +10,4 @@ In order to style the rendering, the circles appearing at the edge of the surfac
 ![screen](https://user-images.githubusercontent.com/11463619/97209438-a08fc800-17bc-11eb-8aca-95f65097960b.png)
 
 ### Statistics on console output
+![stat](https://user-images.githubusercontent.com/11463619/97209911-2e6bb300-17bd-11eb-82a7-469ad00d95fe.png)
