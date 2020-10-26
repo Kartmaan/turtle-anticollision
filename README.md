@@ -7,5 +7,6 @@ In order to style the rendering, the circles appearing at the edge of the surfac
 
 ## Screenshots
 ### Final rendering with 1700 circles
+![screen](https://user-images.githubusercontent.com/11463619/97209438-a08fc800-17bc-11eb-8aca-95f65097960b.png)
 
 ### Statistics on console output
