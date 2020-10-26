@@ -7,7 +7,7 @@ import turtle as tu
 import random
 import time, datetime
 
-circles = 1000 # Number of circles generated
+circles = 1600 # Number of circles generated
 # For the following parameters : screen(1024,720) and r = 5
 # 1700 circles seems to be the most reasonable maximum number
 
