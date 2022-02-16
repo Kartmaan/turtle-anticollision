@@ -100,7 +100,7 @@ while i < circles: # Main loop
         empty += 1
         i += 1
     
-    if i % 100 == 0:
+    if i % 100 == 0: # Display every 100 circles
         print("Drawn circles : {}({}%) - Collisions avoided = {}({}%)".format(i, percent(i, circles), 
         total_collisions, percent(total_collisions, (i+total_collisions))))
 
