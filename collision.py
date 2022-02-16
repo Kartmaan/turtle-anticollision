@@ -78,7 +78,7 @@ while i < circles: # Main loop
                 break # Exit from while True
 
 # Draw --------------------------
-    tu.goto(x, y) # Coordonnées en px
+    tu.goto(x, y) # Coordinates in px
     tu.down()
     cond = ((x < -400) or (x > 400)) or ((y < -250) or (y > 250)) and (x != 0 or y != 0)
     if cond:
